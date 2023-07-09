@@ -1,11 +1,11 @@
 module.exports = {
-  title: "uBlog",
+  title: "red hot nuggets",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
+    "Nuggets of chicken and nuggets of code",
   favicon:
-    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
+    "https://flackable.com/wp-content/uploads/2019/05/Spicy-Chicken-Nuggets-1024x587-50x50.jpg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+  npub: "npub1glu63p0ja2aze6w52qadhwmsnkeu0nccc9fdjfeucw3gjudekrzqp2x6ak",
   themes: [
     "light",
     "dark",
@@ -57,9 +57,9 @@ module.exports = {
     "wss://nostr-pub.wellorder.net",
     "wss://relay.damus.io",
     "wss://nos.lol",
-    "wss://nostr.wine",
+    // "wss://nostr.wine",
     // "wss://nostr.nostrelay.org",
-    // "wss://relay.nostr.ch",
+    "wss://relay.nostr.ch",
     // "wss://nostr.bitcoiner.social",
     // "wss://nostr.onsats.org",
     // "wss://nostr-relay.wlvs.space",
